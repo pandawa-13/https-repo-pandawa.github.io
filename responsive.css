@@ -58,6 +58,12 @@
     .text-contents {
         max-width: 60%;
     }
+    
+    .footer .btn {
+        width: 10%;
+        margin: 0 auto;
+        position: relative;
+    }
 }
 
 
@@ -70,6 +76,25 @@
 
     footer {
         text-align: center;
+    }
+    
+    .button {
+        font-size: 10px;
+        padding: 5px 10px;
+    }
+
+    .footer-container p {
+        font-size: 8px;
+    }
+
+    .footer h4 {
+        font-size: 12px;
+    }
+
+    .footer .btn {
+        width: 10%;
+        margin: 0 auto;
+        position: relative;
     }
 
     .btn {
